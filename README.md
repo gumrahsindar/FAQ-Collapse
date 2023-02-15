@@ -1,6 +1,6 @@
 # FAQ Collapse 
 
-- Live Version: [Get Event Keycode](https://event-keycode.vercel.app/)
+- Live Version: [FAQ Collapse](https://faq-collapse-gsindar.vercel.app/)
 
 - This project was inspired by: [50 Projects In 50 Days](https://www.udemy.com/course/50-projects-50-days/)
 
